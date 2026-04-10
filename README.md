@@ -4,19 +4,12 @@ Features And Functionality
 
 The website provides users with a registration registration form and a log in form upon entering the website,the user is also provided with a login option to ensure that they won't feel the need to create multiple accounts.
 
-![Login Screenshot](majestic-tech-solutions/login.png "Login Screenshot")
+![Login Screenshot](/login.png "Login Screenshot")
 Purpose: Allows new users to create accounts And Login on the website.
 Functionality: Users fill out a registration form with their email, password, and other required information. The system validates the data.
 Dependencies: Relies on backend user management system and possibly third-party email service for verification.
  
-A)	ii) Does user registration depend on an external authentication service?
-
-User Registration Form: The registration process is handled internally, with users filling out a registration form directly on the website.
-
-Login Page: The login process is handled internally as well, as users are provided with a login option on the website.
-
- 
-B) Messaging or communication features:
+### B) Messaging or communication features:
  
 
 When visitors land on our (About Us) page and start scrolling down, they will discover a helpful feature: our (Contact Us Form). This interactive form serves as a direct line of communication between us and our visitors, enabling them to reach out with any information, questions, or inquiries they might have.
@@ -31,10 +24,7 @@ We look forward to receiving messages through our (Contact Us Form) and engaging
 
 Upon clicking send message a message will appear telling the user if they need to fill out the fields or if it is sent.
 
-
-
- 
-C) Integration with social media platforms:
+### C) Integration with social media platforms:
 
 
 When users click on categories such as "Laptops for Gaming," "Laptops for Students," or "Laptops for Coding," they are directed to a curated selection of computers tailored to their specific needs. What sets this experience apart is the integration of informative YouTube reviews by one of the most trusted tech reviewers,
